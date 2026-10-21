@@ -1,0 +1,24 @@
+{
+  "name": "durgx-security-ltd",
+  "version": "1.0.0",
+  "description": "DurgX Security Ltd. - Website Security Testing & Vulnerability Assessment",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AA-Asif/DurgX-Security-Ltd..git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AA-Asif/DurgX-Security-Ltd./issues"
+  },
+  "homepage": "https://github.com/AA-Asif/DurgX-Security-Ltd.#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
